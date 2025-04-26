@@ -4,22 +4,6 @@
 - It is used to build web applications.
 - It is a high-level framework that allows developers to build web applications quickly and easily.
 
-### Django Project Structure
+Django is a popular web framework for building web applications. It is used to build web applications in Python. It is a high-level framework that allows developers to build web applications quickly and easily.
 
-```plaintext
-django-project
-├── db.sqlite3
-├── manage.py
-├── myapp
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── views.py
-│   └── templates
-│       ├── base.html
-│       ├── index.html
-│       └── myapp
-│           └── index.html
-```
+Django is a popular web framework for building web applications. It is used to build web applications in Python. It is a high-level framework that allows developers to build web applications quickly and easily.                                                  
