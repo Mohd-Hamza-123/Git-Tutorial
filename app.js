@@ -1,4 +1,3 @@
 console.log('Welcome to app.js');
-
-console.log("1 commit from main branch");
-console.log("2 commit from main branch");
+console.log("django test 1")
+console.log("django test 2")
